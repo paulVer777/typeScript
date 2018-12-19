@@ -1,0 +1,11 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "compile:ts": "tsc script.ts --w"
+  },
+  "author": "",
+  "license": "ISC"
+}

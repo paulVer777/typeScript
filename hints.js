@@ -1,0 +1,2 @@
+// tsc --init : puts this folder under control of npm and under control of tyescript, after running this command
+// json file will be created, and then we can just type tsc to compile all ts files in our folder to js files
